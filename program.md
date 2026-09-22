@@ -104,7 +104,7 @@ Ces chemins indiquent quelques dépendances majeures, sans remplacer les préreq
 - [x] Addition de nombres relatifs.
 - [x] Soustraction de nombres relatifs.
 - [x] Règle des signes pour la multiplication.
-- [ ] Règle des signes pour la division.
+- [x] Règle des signes pour la division.
 
 <a id="chapitre-2"></a>
 
@@ -112,39 +112,39 @@ Ces chemins indiquent quelques dépendances majeures, sans remplacer les préreq
 
 ### 2.1. Fractions
 
-- [ ] Fraction comme partie d’un tout.
-- [ ] Fraction comme quotient.
-- [ ] Numérateur.
-- [ ] Dénominateur.
-- [ ] Fractions équivalentes.
-- [ ] Multiples d’un entier.
-- [ ] Diviseurs d’un entier.
-- [ ] Nombres premiers.
-- [ ] Décomposition en facteurs premiers.
-- [ ] Plus grand commun diviseur.
-- [ ] Plus petit commun multiple.
-- [ ] Simplification d’une fraction.
-- [ ] Mise au même dénominateur.
-- [ ] Comparaison de fractions.
-- [ ] Addition de fractions.
-- [ ] Soustraction de fractions.
-- [ ] Multiplication de fractions.
-- [ ] Inverse d’un nombre non nul.
-- [ ] Division de fractions.
-- [ ] Fraction d’une quantité.
+- [x] Fraction comme partie d’un tout.
+- [x] Fraction comme quotient.
+- [x] Numérateur.
+- [x] Dénominateur.
+- [x] Fractions équivalentes.
+- [x] Multiples d’un entier.
+- [x] Diviseurs d’un entier.
+- [x] Nombres premiers.
+- [x] Décomposition en facteurs premiers.
+- [x] Plus grand commun diviseur.
+- [x] Plus petit commun multiple.
+- [x] Simplification d’une fraction.
+- [x] Mise au même dénominateur.
+- [x] Comparaison de fractions.
+- [x] Addition de fractions.
+- [x] Soustraction de fractions.
+- [x] Multiplication de fractions.
+- [x] Inverse d’un nombre non nul.
+- [x] Division de fractions.
+- [x] Fraction d’une quantité.
 
 ### 2.2. Décimaux et approximations
 
-- [ ] Nombres décimaux.
-- [ ] Passage d’une fraction à une écriture décimale.
-- [ ] Écriture décimale finie.
-- [ ] Écriture décimale périodique.
-- [ ] Nombres rationnels.
-- [ ] Arrondi.
-- [ ] Troncature.
-- [ ] Erreur absolue.
-- [ ] Erreur relative.
-- [ ] Ordre de grandeur.
+- [x] Nombres décimaux.
+- [x] Passage d’une fraction à une écriture décimale.
+- [x] Écriture décimale finie.
+- [x] Écriture décimale périodique.
+- [x] Nombres rationnels.
+- [x] Arrondi.
+- [x] Troncature.
+- [x] Erreur absolue.
+- [x] Erreur relative.
+- [x] Ordre de grandeur.
 
 ### 2.3. Proportions
 

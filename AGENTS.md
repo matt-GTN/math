@@ -14,6 +14,7 @@ Comprendre en profondeur les concepts de `concepts.md`, avec un objectif à trè
 - Privilégier des explications textuelles développées, dans l’esprit apprécié chez Karpathy : partir du problème concret, expliquer le but premier de la notion et construire le raisonnement pas à pas.
 - Commencer par une intuition et un petit exemple numérique ; introduire ensuite les notations et la définition précise. Expliquer chaque symbole nouveau.
 - Relier les notions entre elles et aux questions déjà rencontrées. Faire le lien avec les LLM lorsqu’il éclaire réellement le concept, sans forcer une application prématurée.
+- Conserver le format pédagogique en cours, mais ajouter à chaque notion une courte note historique ou un fait amusant pertinent pour rendre le cours plus vivant et favoriser les associations d’idées. Privilégier l’histoire des mathématiques ; rester bref et ne pas laisser l’anecdote détourner de la notion étudiée.
 - Utiliser des calculs empiriques, des contre-exemples et de courts essais Python dès le début. L’utilisateur est déjà à l’aise avec Python. Relier les résultats du code au raisonnement mathématique.
 - Ne pas utiliser d’images par défaut. Les explications et les exemples doivent se suffire à eux-mêmes.
 - Ne pas répondre « vous verrez ça plus tard » à une incompréhension. Identifier le prérequis manquant, ouvrir la parenthèse nécessaire puis revenir à la question initiale. Distinguer intuition, observation empirique et preuve ; expliciter les hypothèses et les limites d’une analogie.
