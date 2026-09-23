@@ -148,22 +148,22 @@ Ces chemins indiquent quelques dépendances majeures, sans remplacer les préreq
 
 ### 2.3. Proportions
 
-- [ ] Rapport entre deux quantités.
-- [ ] Proportion.
-- [ ] Proportionnalité.
-- [ ] Coefficient de proportionnalité.
-- [ ] Règle de trois.
-- [ ] Pourcentage.
-- [ ] Conversion entre fraction, décimal et pourcentage.
-- [ ] Pourcentage d’augmentation.
-- [ ] Pourcentage de diminution.
-- [ ] Variations multiplicatives successives.
-- [ ] Proportionnalité inverse.
-- [ ] Moyenne arithmétique.
-- [ ] Moyenne pondérée.
-- [ ] Unités de mesure.
-- [ ] Conversion d’unités.
-- [ ] Cohérence des unités dans une formule.
+- [x] Rapport entre deux quantités.
+- [x] Proportion.
+- [x] Proportionnalité.
+- [x] Coefficient de proportionnalité.
+- [x] Règle de trois.
+- [x] Pourcentage.
+- [x] Conversion entre fraction, décimal et pourcentage.
+- [x] Pourcentage d’augmentation.
+- [x] Pourcentage de diminution.
+- [x] Variations multiplicatives successives.
+- [x] Proportionnalité inverse.
+- [x] Moyenne arithmétique.
+- [x] Moyenne pondérée.
+- [x] Unités de mesure.
+- [x] Conversion d’unités.
+- [x] Cohérence des unités dans une formule.
 
 <a id="chapitre-3"></a>
 
