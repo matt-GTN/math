@@ -169,21 +169,21 @@ Ces chemins indiquent quelques dépendances majeures, sans remplacer les préreq
 
 ## 3. Puissances, racines et nombres réels
 
-- [ ] Carré d’un nombre.
-- [ ] Cube d’un nombre.
-- [ ] Puissance à exposant entier positif.
-- [ ] Puissance d’exposant zéro.
-- [ ] Puissance à exposant entier négatif.
-- [ ] Produit de puissances de même base.
-- [ ] Quotient de puissances de même base.
-- [ ] Puissance d’une puissance.
-- [ ] Puissance d’un produit.
-- [ ] Racine carrée.
-- [ ] Racine cubique.
-- [ ] Racine d’ordre quelconque.
-- [ ] Exposant fractionnaire.
-- [ ] Nombres irrationnels.
-- [ ] Nombres réels.
+- [x] Carré d’un nombre.
+- [x] Cube d’un nombre.
+- [x] Puissance à exposant entier positif.
+- [x] Puissance d’exposant zéro.
+- [x] Puissance à exposant entier négatif.
+- [x] Produit de puissances de même base.
+- [x] Quotient de puissances de même base.
+- [x] Puissance d’une puissance.
+- [x] Puissance d’un produit.
+- [x] Racine carrée.
+- [x] Racine cubique.
+- [x] Racine d’ordre quelconque.
+- [x] Exposant fractionnaire.
+- [x] Nombres irrationnels.
+- [x] Nombres réels.
 - [ ] Approximation d’un nombre irrationnel.
 - [ ] Notation scientifique.
 - [ ] Ordres de grandeur en puissances de dix.
