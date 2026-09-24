@@ -184,11 +184,11 @@ Ces chemins indiquent quelques dépendances majeures, sans remplacer les préreq
 - [x] Exposant fractionnaire.
 - [x] Nombres irrationnels.
 - [x] Nombres réels.
-- [ ] Approximation d’un nombre irrationnel.
-- [ ] Notation scientifique.
-- [ ] Ordres de grandeur en puissances de dix.
-- [ ] Distinction entre \(-x^2\) et \((-x)^2\).
-- [ ] Relation \(\sqrt{x^2}=|x|\).
+- [x] Approximation d’un nombre irrationnel.
+- [x] Notation scientifique.
+- [x] Ordres de grandeur en puissances de dix.
+- [x] Distinction entre \(-x^2\) et \((-x)^2\).
+- [x] Relation \(\sqrt{x^2}=|x|\).
 
 <a id="chapitre-4"></a>
 
@@ -196,50 +196,50 @@ Ces chemins indiquent quelques dépendances majeures, sans remplacer les préreq
 
 ### 4.1. Lire une expression
 
-- [ ] Constante.
-- [ ] Variable.
-- [ ] Inconnue.
-- [ ] Paramètre.
-- [ ] Expression mathématique.
-- [ ] Formule.
-- [ ] Substitution d’une valeur dans une expression.
-- [ ] Multiplication implicite : \(ab=a\times b\).
-- [ ] Indice : \(x_i\).
-- [ ] Double indice : \(a_{ij}\).
-- [ ] Distinction entre indice et exposant.
-- [ ] Égalité exacte.
-- [ ] Égalité approchée : \(\approx\).
-- [ ] Définition par une égalité.
+- [x] Constante.
+- [x] Variable.
+- [x] Inconnue.
+- [x] Paramètre.
+- [x] Expression mathématique.
+- [x] Formule.
+- [x] Substitution d’une valeur dans une expression.
+- [x] Multiplication implicite : \(ab=a\times b\).
+- [x] Indice : \(x_i\).
+- [x] Double indice : \(a_{ij}\).
+- [x] Distinction entre indice et exposant.
+- [x] Égalité exacte.
+- [x] Égalité approchée : \(\approx\).
+- [x] Définition par une égalité.
 
 ### 4.2. Ensembles et logique
 
-- [ ] Ensemble.
-- [ ] Élément d’un ensemble.
-- [ ] Appartenance : \(\in\).
-- [ ] Ensemble vide.
-- [ ] Inclusion.
-- [ ] Union.
-- [ ] Intersection.
-- [ ] Complémentaire.
-- [ ] Cardinal d’un ensemble fini.
-- [ ] Couple ordonné.
-- [ ] Produit cartésien.
-- [ ] Intervalle ouvert.
-- [ ] Intervalle fermé.
-- [ ] Proposition vraie ou fausse.
-- [ ] Négation.
-- [ ] Conjonction : « et ».
-- [ ] Disjonction : « ou ».
-- [ ] Implication.
-- [ ] Équivalence.
-- [ ] Condition nécessaire.
-- [ ] Condition suffisante.
-- [ ] Quantificateur « pour tout » : \(\forall\).
-- [ ] Quantificateur « il existe » : \(\exists\).
-- [ ] Contre-exemple.
-- [ ] Preuve directe.
-- [ ] Raisonnement par contraposée.
-- [ ] Raisonnement par contradiction.
+- [x] Ensemble.
+- [x] Élément d’un ensemble.
+- [x] Appartenance : \(\in\).
+- [x] Ensemble vide.
+- [x] Inclusion.
+- [x] Union.
+- [x] Intersection.
+- [x] Complémentaire.
+- [x] Cardinal d’un ensemble fini.
+- [x] Couple ordonné.
+- [x] Produit cartésien.
+- [x] Intervalle ouvert.
+- [x] Intervalle fermé.
+- [x] Proposition vraie ou fausse.
+- [x] Négation.
+- [x] Conjonction : « et ».
+- [x] Disjonction : « ou ».
+- [x] Implication.
+- [x] Équivalence.
+- [x] Condition nécessaire.
+- [x] Condition suffisante.
+- [x] Quantificateur « pour tout » : \(\forall\).
+- [x] Quantificateur « il existe » : \(\exists\).
+- [x] Contre-exemple.
+- [x] Preuve directe.
+- [x] Raisonnement par contraposée.
+- [x] Raisonnement par contradiction.
 - [ ] Raisonnement par récurrence.
 
 <a id="chapitre-5"></a>
